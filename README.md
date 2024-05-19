@@ -10,6 +10,7 @@ My name is João Miguel and I am an enthusiastic and eager software engineering 
 * Java 
 * Spring
 * MongoDB
+* PostgreSQL
 * MySQL
 * Docker
 * AWS
