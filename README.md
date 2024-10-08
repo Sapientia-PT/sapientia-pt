@@ -8,11 +8,14 @@ My name is João Miguel and I am a passionate software engineer.
 [University Project - Website Accessibility Evaluator](http://64.226.78.6:3095)
 
 
-## 🛠 Skills
+## 🛠 Some of my skills
 * Java
 * Spring
-* MongoDB
+* Quarkus
 * PostgreSQL
-* MySQL
+* Angular
+* Typescript
+* Javascript
+* MongoDB
 * Docker
-* AWS
+* Jira
