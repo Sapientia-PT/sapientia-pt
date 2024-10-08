@@ -18,4 +18,3 @@ My name is João Miguel and I am a passionate software engineer.
 * Javascript
 * MongoDB
 * Docker
-* Jira
